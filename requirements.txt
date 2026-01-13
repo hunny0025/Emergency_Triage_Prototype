@@ -1,13 +1,5 @@
-cat > requirements.txt << 'EOF'
 streamlit==1.28.0
 streamlit-option-menu==0.3.6
 pandas==2.0.3
-plotly==5.17.0
 numpy==1.24.3
-pydub==0.25.1
-sounddevice==0.4.6
-soundfile==0.12.1
-SpeechRecognition==3.10.0
-pyttsx3==2.90
-python-dotenv==1.0.0
-EOF
+plotly==5.17.0
